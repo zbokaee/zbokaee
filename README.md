@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zbokaee
-- 👀 I’m interested in Math, Programming, Natural Language Processing (NLP), , Data Science, Machine Learning, and Human-Computer Interaction (HCI).
+- 👀 I’m interested in Math, Programming, Natural Language Processing (NLP), Data Science, Machine Learning, Deep Learning, and Human-Computer Interaction (HCI).
 - 🌱 I’m currently learning to solve some Text Processing problems!
 - :fountain_pen: I’m looking to collaborate on state-of-the-art NLP projects.
 - 🌱 I’m addicted to learning and growing every day.
