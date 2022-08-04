@@ -13,7 +13,7 @@
 
 ![zbokaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbokaee&theme=radical&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbokaee)](https://github.com/abokaee/github-readme-stats)
 
 <!---
 zbokaee/zbokaee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
