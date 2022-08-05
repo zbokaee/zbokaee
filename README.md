@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Programming, Natural Language Processing (NLP), Data Science, Machine Learning, Deep Learning, and Human-Computer Interaction (HCI).
 - 🌱 I’m currently learning to solve some Text Processing problems!
 - :fountain_pen: I’m looking to collaborate on state-of-the-art NLP projects.
-- 🌱 I’m addicted to learning and growing every day.
+- 🌱 I’m addicted to learning and growing every day...
 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs ...
 - 📫 How to find me: 
