@@ -1,6 +1,6 @@
-- 👋 Hi, I’m zbokaei
+- 👋 Hi, I’m zbokaei.
 - 👀 I’m interested in Math, Programming, Natural Language Processing (NLP), Data Science, Machine Learning, Deep Learning, and Human-Computer Interaction (HCI).
-- 🌱 I’m currently learning to solve some Text Processing problems!
+- 🌱 I’m currently working on some Text Processing problems!
 - :fountain_pen: I’m looking to collaborate on state-of-the-art NLP projects.
 - 🌱 I’m addicted to learning and growing every day...
 
@@ -10,6 +10,8 @@
   - :pencil2: [ResarchGate](https://www.researchgate.net/profile/Zahra-Bokaee-Nezhad)
   - :office: [LinkedIn](https://www.linkedin.com/in/zahra-bk-b64090222/)
   - :speaker: [Website](https://www.apextech.ir/)
+  
+  :mailbox_with_mail: Should you have any question, you can drop me an [Email](zbokaee@gmail.com)!
 
 ![zbokaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbokaee&theme=radical&show_icons=true)
 
