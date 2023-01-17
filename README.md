@@ -11,7 +11,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/zahra-bk-b64090222/)
   - :speaker: [Website](https://www.apextech.ir/)
   
-  :mailbox_with_mail: Should you have any question, you can drop me an [Email](zbokaee@gmail.com)!
+- :mailbox_with_mail: Should you have any question, you can drop me an Email at zbokaee@gmail.com.
 
 ![zbokaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbokaee&theme=radical&show_icons=true)
 
