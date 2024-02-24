@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zbokaei.
+- 👋 Hi, I’m Zahra Bokaei.
 - 👀 I’m interested in Math, Programming, Natural Language Processing (NLP), Data Science, Machine Learning, Deep Learning, and Human-Computer Interaction (HCI).
 - 🌱 I’m currently working on some Text Processing problems!
 - :fountain_pen: I’m looking to collaborate on state-of-the-art NLP projects.
